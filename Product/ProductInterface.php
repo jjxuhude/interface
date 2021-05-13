@@ -33,6 +33,7 @@ interface ProductInterface
      * @return array
      */
     public function demo(): string ;
+    public function demo1(): string ;
     public function getList(int $id, $type, int $count = 10): array;
 
     /**
