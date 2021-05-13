@@ -1,0 +1,15 @@
+{
+    "name": "jack/interface",
+    "authors": [
+        {
+            "name": "jjxuhude",
+            "email": "jjxuhuade@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lib\\Product\\": "Lib/Product"
+        }
+    },
+    "require": {}
+}
